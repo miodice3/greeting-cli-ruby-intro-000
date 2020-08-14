@@ -1,6 +1,6 @@
 # code the #greeting method here!
 def greeting(name)
-  puts "#{name}"
+    name = gets.strip
 end
 
 greeting("Bobby")
